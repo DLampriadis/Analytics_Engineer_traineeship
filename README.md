@@ -1,0 +1,2 @@
+# Analytics_Engineer_traineeship
+ Python_SQL_Assignments
