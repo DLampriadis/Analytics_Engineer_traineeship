@@ -7,4 +7,4 @@ from data_table d
     inner join email_table  e --join the data_table with email_table and with inner join we expect the common data.
     on d.join_id = e.join_id --join_id is the only key we use.
 where d.column_3 like ('%1') 
--- and d.column_2 < column_1_new;
+and d.column_2 < column_1_new;
